@@ -1,0 +1,23 @@
+{
+  "name": "tweet-roller-server",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+"repository": {
+    "type": "git",
+    "url": "git+https://github.com/8845musign/tweet-roller-server.git"
+  },
+  "author": "8845musign",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/8845musign/tweet-roller-server/issues"
+  },
+  "homepage": "https://github.com/8845musign/tweet-roller-server#readme",
+  "dependencies": {
+    "express": "^4.16.1",
+    "socket.io": "^2.0.3"
+  }
+}
